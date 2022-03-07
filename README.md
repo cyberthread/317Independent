@@ -12,7 +12,7 @@ Introduce us to something new. Pick a hobby, sport, game, or other subject you h
 - [ ] Designed and developed mobile-first
 - [ ] Meets accessibility standards
 - [ ] Is a type-only webpage (no images or other media)
-- [ ] Stick to layout techniques you have already learned: floats, positioning, flexbox. If you just can't help yourself you can check out columns. You shouldn't need CSS-grid.
+- [ ] Stick to layout techniques you have already learned like floats.
 
 ### Content
 - [ ] Name of the site
@@ -24,11 +24,4 @@ Introduce us to something new. Pick a hobby, sport, game, or other subject you h
 - [ ] Screenshot demonstrating the published page has valid HTML (use the HTML Validator)
 - [ ] Screenshot demonstrating the published page has valid CSS (use the CSS Validator)
 - [ ] Screenshot demonstrating the code passes an automated accessibillity checker (use AXE with your browser or the WAVE extension)
-
-### Process 
-- [ ] Document process in your proces log
-- [ ] Research you have done: review of dictionaries and glossaries, visual inspiration, content, technology, etc.
-- [ ] Planning you have done: sketches, diagrams, prototypes, visualizations
-- [ ] Revisions you have done: screenshots at various moments of process with notes on feedback and what was changed in next version
-- [ ] Screenshots of final version
-- [ ] URL to published (live)
+- [ ] PDF slide deck of process (see assignment on Blackboard for details)
